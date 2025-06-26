@@ -1,0 +1,11 @@
+*.mem
+*.E01
+*.dmp
+*.vhd
+*.vmdk
+.DS_Store
+Thumbs.db
+*.lock
+*.log
+*.db
+*.sqlite
