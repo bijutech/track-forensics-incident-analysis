@@ -6,13 +6,13 @@
 
 track-forensics-incident-analysis/
 ├── report/
-│   ├── draft.md
-│   └── mitre_table.md
+│ ├── draft.md # основной отчёт
+│ └── mitre_table.md # таблица техник MITRE ATT&CK
 ├── memory/
-│   └── analysis_logs/
-├── disk/
-├── screenshots/
-├── tools/
+│ └── analysis_logs/ # вывод команд Volatility
+├── disk/ # примечания по образу диска
+├── screenshots/ # артефакты, логи, доказательства
+├── tools/ # команды и утилиты
 ├── LICENSE
 └── README.md
 
